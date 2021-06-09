@@ -9,7 +9,7 @@ const projectList = [
   },
   {
     name: "Discord Bot",
-    description: "Implemented using Python and Discord.js Library",
+    description: "Implemented using Python and Discord.js Library.",
     tools: ["Discord.js", "Python", "Flask"],
   },
   {
